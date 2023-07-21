@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity and project management
 - 🌱 I’m currently learning cybersecurity, highlevel AI, cloud and data science courses 
 - 💞️ I’m looking to collaborate on white hat hacking
-- 📫 How to reach me gfalcke@hotmail.com
+- 📫 How to reach me https://www.linkedin.com/in/gigi-griffin-87a42a9/
 
 <!---
 gmfalcke/gmfalcke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
