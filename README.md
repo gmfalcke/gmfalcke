@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gmfalcke
 - 👀 I’m interested in cybersecurity and project management
 - 🌱 I’m currently learning cybersecurity, highlevel AI, cloud and data science courses 
-- 💞️ I’m looking to collaborate on white hat hacking. 
+- 💞️ I’m looking to collaborate on white hat hacking
 - 📫 How to reach me gfalcke@hotmail.com
 
 <!---
